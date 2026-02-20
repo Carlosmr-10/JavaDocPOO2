@@ -6,6 +6,10 @@ import model.Coche;
  * Clase de prueba para verificar el funcionamiento de la clase Coche. Permite
  * comprobar el uso de constructores, setters y el cálculo del precio final con
  * IVA.
+ * 
+ * @author Carlos Michelena Rueda
+ * @since 18/02/2026
+ * @version 1.0.0
  */
 public class MainCoche {
 
